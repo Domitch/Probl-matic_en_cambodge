@@ -1,0 +1,127 @@
+ville,nom,adresse,etoiles,note,avis,prix
+Siem Reap,Onederz Hostel Siem Reap,"Siem Reap centre,Siem Reap ",3,9.3,3456,12
+Siem Reap,Pandora Suite D'Angkor,"Kouk Chak,Siem Reap ",5,9.2,1004,31
+Siem Reap,Elysium Suite La Residence,"Sala Kamreuk,Siem Reap ",4,9.1,439,32
+Siem Reap,Grand Venus La Residence,"Kouk Chak,Siem Reap ",0,9.0,1040,31
+Siem Reap,Lub d Siem Reap,"Siem Reap centre,Siem Reap ",4,9.3,3129,14
+Siem Reap,Bopha Wat Bo Residence,"Siem Reap centre,Siem Reap ",5,9.2,285,29
+Siem Reap,Indra Angkor Residence,"Sala Kamreuk,Siem Reap ",4,8.7,597,25
+Siem Reap,Darling Pub Hostel,"Siem Reap centre,Siem Reap ",3,8.9,894,19
+Siem Reap,VPlus Hotel,"Siem Reap centre,Siem Reap ",3,9.4,1468,10
+Siem Reap,Tropical Breeze Guesthouse,"Siem Reap centre,Siem Reap ",2,8.2,550,14
+Sihanoukville,Onederz Sihanoukville,"Plage de la Victoire,Sihanoukville ",2,8.9,1672,12
+Sihanoukville,STAR BAY Residence - FREE Laundry - 400m to Sokha Beach,"Plage de Sokha,Sihanoukville ",5,8.0,13,32
+Sihanoukville,Independence Hotel Resort & Spa,"Plage de l'Indépendance,Sihanoukville ",4,8.1,2489,112
+Sihanoukville,STAR BAY Residence Sihanoukville - 400m to Sokha Beach,"Plage de Sokha,Sihanoukville ",4,7.0,128,44
+Sihanoukville,RIVA Hotel SHV,"Plage de l'Indépendance,Sihanoukville ",4,8.8,1355,72
+Sihanoukville,Munich Hotel,"Plage de Sokha,Sihanoukville ",5,8.5,181,46
+Sihanoukville,Novotel Sihanoukville Holiday Resort,"Plage de l'Indépendance,Sihanoukville ",0,8.7,471,216
+Sihanoukville,Kactus - Your Island Sanctuary,"Koh Ta Kiev,Sihanoukville ",3,8.6,146,23
+Sihanoukville,Legend Hotel and Resort,"Sihanoukville Centre,Sihanoukville ",4,9.1,662,56
+Sihanoukville,Sahaa Beach Resort,"Plage d'Otres,Sihanoukville ",4,7.9,684,48
+Phnom Penh,Home Chic Hotel,"Chamkarmon,Phnom Penh ",0,8.1,2346,25
+Phnom Penh,Mettavary Hotel,"Chamkarmon,Phnom Penh ",4,8.6,1888,31
+Phnom Penh,Residence 110,"Doun Penh,Phnom Penh ",4,8.2,1162,21
+Phnom Penh,CHECK inn Phnom Penh BKK 1,"Chamkarmon,Phnom Penh ",4,8.6,318,28
+Phnom Penh,Onederz Phnom Penh,"Doun Penh,Phnom Penh ",2,8.9,805,15
+Phnom Penh,Phnom Penh Infinity Pool Min. $22/N - M Residence,"Chamkarmon,Phnom Penh ",5,8.0,2402,26
+Phnom Penh,Ohana Phnom Penh Palace Hotel,"Doun Penh,Phnom Penh ",4,8.5,5646,37
+Phnom Penh,The Bridge Club,"Chamkarmon,Phnom Penh ",4,8.2,9616,38
+Phnom Penh,The Big Easy Phnom Penh,"Doun Penh,Phnom Penh ",2,7.8,753,11
+Phnom Penh,"Le Hotel Hotel, Phnom Penh","Doun Penh,Phnom Penh ",3,6.8,323,16
+Battambang,Cambana La Rivière Hotel,"Rive Est,Battambang ",4,8.6,89,55
+Battambang,The Sanctuary Villa Battambang,"Battambang Centre,Battambang ",4,8.0,981,35
+Battambang,Royal Hotel,"Battambang Centre,Battambang ",3,8.0,949,30
+Battambang,Blue Diamond Guesthouse,"Battambang Centre,Battambang ",2,7.9,243,30
+Battambang,Pomme Hostel Restaurant & Bar - Private Sleeping Cabins,"Battambang Centre,Battambang ",2,9.0,132,6
+Battambang,Emerald Bb Battambang Hotel,"Rive Est,Battambang ",3,8.1,548,20
+Battambang,Lux Guesthouse,"Battambang Centre,Battambang ",2,7.5,301,10
+Battambang,Muni Residence & Spa,"Rive Est,Battambang ",4,9.6,142,25
+Battambang,Classy Hotel,"Rive Est,Battambang ",4,8.4,1229,48
+Battambang,Delux Villa,"Battambang Centre,Battambang ",4,8.3,705,47
+Kampot,Onederz Kampot,"Kampot centre,Kampot ",3,8.9,534,16
+Kampot,Good Morning Kampot Guesthouse,"Kampot centre,Kampot ",2,7.7,732,11
+Kampot,Suorsdei Boutique,"Kampot centre,Kampot ",3,8.9,480,16
+Kampot,Monkey Republic Kampot,"Kampot centre,Kampot ",3,8.7,410,10
+Kampot,Bamboo Bungalows,"Kampot centre,Kampot ",3,7.9,960,21
+Kampot,Karma Traders Kampot,"Kampot centre,Kampot ",2,8.8,165,6
+Kampot,Montagne Boutique,"Kampot centre,Kampot ",3,8.8,802,28
+Kampot,Sokchea Kampot Hotel,"Kampot centre,Kampot ",4,8.6,223,46
+Kampot,Eden Eco Village,"Kampot centre,Kampot ",3,8.0,213,18
+Kampot,Funky Moon Kampot,"Kampot centre,Kampot ",5,8.3,292,14
+Kampong Cham,LBN Asian Hotel,"Phum Dabpram,Kampong Cham ",0,8.5,823,49
+Kampong Cham,Hanchey Bamboo Resort,"Boeng Kok Pir,Kampong Cham ",3,8.5,52,29
+Kampong Cham,Thmor Da Guest House,"Phum Dabpram,Kampong Cham ",0,3.6,1,18
+Kampong Cham,Phalla Riverside,"Boeng Kok Pir,Kampong Cham ",3,8.4,103,11
+Kampong Cham,BK Bungalows,"Boeng Kok Pir,Kampong Cham ",3,8.0,7,7
+Kampong Cham,OBT Homestay and Bungalows,"Boeng Kok Pir,Kampong Cham ",3,8.3,3,12
+Kampong Cham,Reasmey Cheanich Hotel,"Phum Dabpram,Kampong Cham ",3,7.5,277,30
+Kampong Cham,VV Hotel Kampong Cham,"Phum Dabpram,Kampong Cham ",4,9.3,3,55
+Kampong Cham,Toek Chha Temple Resort,"Kampong Cham,Kampong Cham ",1,7.844444444444444,0,23
+Kampong Cham,Natural bungalows,"Boeng Kok Pir,Kampong Cham ",3,8.5,29,23
+Kampong Thom,Glorious Hotel & Spa,"Balang,Kampong Thom ",4,7.6,154,25
+Kampong Thom,Kampong Thom Palace Hotel,"Stoeng Sen,Kampong Thom ",0,8.4,295,33
+Kampong Thom,Sambor Village Hotel,"Stoeng Sen,Kampong Thom ",3,8.5,264,66
+Kampong Thom,Vvillage,"Balang,Kampong Thom ",0,8.166666666666666,0,33
+Koh Kong,Soho Villa&Resort,"Phum Ti Bei,Koh Kong ",5,7.5,3,45
+Koh Kong,Nov Koh Kong Resort,"Dang Tong,Koh Kong ",4,8.3,16,52
+Koh Kong,Asian Koh Kong Hotel,"Phum Ti Bei,Koh Kong ",3,7.8,98,49
+Koh Kong,Sopheak Mongkol Guest House,"Kaoh Kong,Koh Kong ",5,7.2,5,49
+Koh Kong,Young Wild and Free,"Kaoh Pao,Koh Kong ",2,7.8,46,49
+Koh Kong,Tatai Nature Resort,"Phum Ti Bei,Koh Kong ",4,7.720000000000001,0,49
+Kratie,Silver Dolphin Guesthouse,"Doun Chroam,Kratie ",0,7.3,401,7
+Kratie,Le Tonle,"Doun Chroam,Kratie ",3,8.8,77,18
+Kratie,Sorya Guesthouse & Dolphin Tours,"Doun Chroam,Kratie ",3,9.2,160,22
+Kratie,Tonle Mekong Homestay,"Doun Chroam,Kratie ",0,9.2,63,5
+Kratie,Soriyabori Villas,"Kbal Kaoh,Kratie ",3,7.8,141,106
+Kratie,HeangKanha GuestHouse,"Doun Chroam,Kratie ",3,8.2,34,11
+Kratie,River Dolphin Hotel,"Kapou,Kratie ",3,7.2,233,13
+Kratie,Privada Lodge - Historic Hotel,"Doun Chroam,Kratie ",4,8.1,15,38
+Kratie,Nomad Guesthouse,"Doun Chroam,Kratie ",3,8.4,102,13
+Kratie,Dolphin Home Stay New,"Kratie,Kratie ",0,7.9,6,7
+Preah Vihear,Phnom Tbeng Resort,"Preah Vihear,Preah Vihear ",3,8.7,18,25
+Preah Vihear,Sokha Home,"Thmei,Preah Vihear ",0,8.0,70,25
+Preah Vihear,Javier Guest House,"Thmei,Preah Vihear ",1,6.7,16,25
+Preah Vihear,Family Motel,"Thmei,Preah Vihear ",0,7.8,0,25
+Pursat,Pursat Riverside Hotel & Spa,"Pursat,Pursat ",4,7.8,418,9
+Pursat,avec 5 chambre(s) de  m² et 1 salle(s) de bains privée(s) à Pursat (Pursat happy homestay),"Pursat,Pursat ",0,9.8,2,9
+Stung Treng,Savet Guesthouse,"Mondol Bei,Stung Treng ",3,8.2,194,18
+Stung Treng,Savet Hostel,"Mondol Bei,Stung Treng ",3,8.5,38,9
+Stung Treng,Mekong Bird Resort,"Mondol Bei,Stung Treng ",0,6.8,53,13
+Stung Treng,Sampheap Guesthouse,"Mondol Bei,Stung Treng ",0,7.833333333333333,0,13
+Stung Treng,Four Rivers Hotel,"Mondol Bei,Stung Treng ",4,7.833333333333333,0,13
+Takeo,Eco Garden Residences,"Sangkat Chaom Chau,Takeo ",4,7.9,133,29
+Takeo,The Safari Resort,"Prey Rumdeng,Takeo ",4,9.6,3,29
+Takeo,Diamonich Suites Hotel,"Prey Rumdeng,Takeo ",3,8.45,0,29
+Takeo,Alice Villa Hotel,"Chres,Takeo ",3,7.6,63,29
+Takeo,Meas Family Homestay,"Prey Rumdeng,Takeo ",4,8.7,10,29
+Kep,Atmaland Resort,"Prey Thum,Kep ",3,8.6,637,24
+Kep,Veranda Natural Resort,"Prey Thum,Kep ",4,8.8,1452,119
+Kep,Mealea Resort,"Prey Thum,Kep ",3,8.1,665,43
+Kep,Saravoan Kep,"Prey Thum,Kep ",3,8.3,955,49
+Kep,Kep Bay Hotel and Resort,"Kep Centre,Kep ",4,8.0,641,53
+Kep,Bird of Paradise Bungalows,"Prey Thum,Kep ",2,8.9,268,17
+Kep,Sabbay Kep,"Prey Thum,Kep ",3,8.1,110,61
+Kep,Auberge de la Plage,"Prey Thum,Kep ",3,7.8,46,16
+Kep,The Beach House Hotel,"Prey Thum,Kep ",3,8.2,306,41
+Kep,Vakara Hotel Kep,"Kep Centre,Kep ",4,8.8,211,90
+Koh Rong,Onederz Koh Rong,"Koh Toch,Koh Rong ",3,9.0,170,21
+Koh Rong,Scarlet Sails Resort,"Koh Toch,Koh Rong ",4,7.8,303,57
+Koh Rong,WHITE SAND ARK RESORT,"Plage de Sok San,Koh Rong ",4,9.3,444,77
+Koh Rong,Long Set Resort,"Koh Toch,Koh Rong ",4,8.9,919,121
+Koh Rong,Long Beach Resort Koh Rong,"Plage de Sok San,Koh Rong ",0,8.0,268,108
+Koh Rong,BeachWalk Koh Rong,"Koh Toch,Koh Rong ",4,9.2,237,132
+Koh Rong,Mad Monkey Koh Rong,"Koh Toch,Koh Rong ",2,7.5,42,60
+Koh Rong,The Secret Garden Koh Rong,"Pagoda Beach,Koh Rong ",4,9.2,387,118
+Koh Rong,Koh Rong Hill Beach Resort,"Koh Toch,Koh Rong ",0,7.5,237,56
+Koh Rong,The One Resort Koh Rong,"Pagoda Beach,Koh Rong ",3,8.3,270,152
+Koh Rong Sanloem,Sara Resort,"Saracen Bay,Koh Rong Samloem ",4,8.7,743,66
+Koh Rong Sanloem,Saracen Bay Resort,"Saracen Bay,Koh Rong Samloem ",0,9.2,610,64
+Koh Rong Sanloem,Eden Beach Resort By EHM,"Saracen Bay,Koh Rong Samloem ",4,8.9,382,88
+Koh Rong Sanloem,"The Cliff Hostel, M'pay Bay","Mpai Bei,Koh Rong Samloem ",0,8.1,353,13
+Koh Rong Sanloem,La Passion by Achariyak,"Saracen Bay,Koh Rong Samloem ",4,8.8,550,103
+Koh Rong Sanloem,SoonNoeng Resort,"Saracen Bay,Koh Rong Samloem ",4,8.6,76,64
+Koh Rong Sanloem,Paradise Villas Koh Rong Sanloem,"Saracen Bay,Koh Rong Samloem ",3,8.1,167,37
+Koh Rong Sanloem,One Beach Resort By EHM,"Saracen Bay,Koh Rong Samloem ",4,8.0,187,80
+Koh Rong Sanloem,Onederz Koh Rong Sanloem,"Saracen Bay,Koh Rong Samloem ",1,8.8,455,66
+Koh Rong Sanloem,Tube Resort By EHM,"Saracen Bay,Koh Rong Samloem ",4,8.3,411,68
